@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/VARUN-PORTFOLIO/',
+  base: '/varun-portfolio/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
